@@ -1,0 +1,4 @@
+Designed automations with python to improve manual reporting processes.
+Managed several programs and made significant contributions to the department wiki.
+Used the SQL database to identify student record issue and resolve them.
+Designed training for non-technical staff on technical topics.

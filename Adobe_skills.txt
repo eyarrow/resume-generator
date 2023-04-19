@@ -1,0 +1,4 @@
+Collaborated with engineering to uncover bugs and improve processes.
+Used knowledge of C++ to identify issues with source code.
+Wrote an onboarding wiki decreasing ramp up time after training by 60%.
+Served as a subject matter expert on Web Services API design and testing.
